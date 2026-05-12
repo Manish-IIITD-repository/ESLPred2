@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **ESLpred2**, an enhanced computational tool designed to predict the subcellular localization of eukaryotic proteins with high accuracy. Understanding the location of a protein within a cell is a fundamental step in characterizing its biological function and role in cellular pathways.
 
-**Web Server:** [http://www.imtech.res.in/raghava/eslpred2/](http://www.imtech.res.in/raghava/eslpred2/)
+**Web Server:** [http://www.imtech.res.in/raghava/eslpred2/](http://www.imtech.res.in/raghava/eslpred2/)(https://webs.iiitd.edu.in/raghava/eslpred2)
 
 ---
 
