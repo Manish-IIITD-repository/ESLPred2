@@ -12,6 +12,7 @@ Garg, A., & Raghava, G. P. S. (2008).
 **ESLpred2: improved method for predicting subcellular localization of eukaryotic proteins.** *BMC Bioinformatics*, 9, 503. 
 [https://doi.org/10.1186/1471-2105-9-503](https://doi.org/10.1186/1471-2105-9-503)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20140065)
 ---
 
 ## About the Platform
